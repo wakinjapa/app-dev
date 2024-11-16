@@ -15,6 +15,6 @@
 - [x] Drama
 
 # Storyline:
->Emily in Paris follows Emily Cooper, an American college graduate in her late twenties with a Master's degree in communication who is from Chicago; she moves to Paris for an unexpected job opportunity. She is tasked with bringing an American point of view and social media presence to a venerable French marketing firm. :joy:
+>Emily, an ambitious twenty-something marketing executive from Chicago, unexpectedly lands her dream job in Paris when her company acquires a French luxury marketing company - and she is tasked with revamping their social media strategy.. :joy:
 
 
